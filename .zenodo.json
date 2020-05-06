@@ -1,10 +1,12 @@
 {
     "creators": [
         {
-            "name": "Person 1"
+            "name": "Person 1",
+            "role": "Lead"
         },
-	{
-	    "name": "Person 2"
-	}
+        {
+            "name": "Person 2",
+            "role": "Contributor"
+        }
     ]
 }
