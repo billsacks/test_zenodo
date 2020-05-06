@@ -2,11 +2,15 @@
     "creators": [
         {
             "name": "Person 1",
-            "role": "Lead"
+            "//role": "Lead"
         },
         {
             "name": "Person 2",
-            "role": "Contributor"
+            "#role": "Contributor"
+        },
+        {
+            "name": "Person 3",
+            "/*role": "Contributor"
         }
     ]
 }
